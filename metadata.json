@@ -1,0 +1,6 @@
+{
+  "name": "RTAF PEMS",
+  "description": "ระบบบริหารจัดการอุปกรณ์ส่วนตัวและพัสดุสำหรับนักบิน กองทัพอากาศ (Pilot Equipment Management System)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
